@@ -1,6 +1,6 @@
 # Current Stack
 <div align="center">
-  <img src="CurrentStack.png" height="300px" />
+  <img src="CurrentStack.png" />
 </div>
 
 # Future Stack Additions
